@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aravind Raj
-- 👀 I’m interested in learning new things 
+- 💚 I’m interested in learning new things 
 - 🌱 I’m currently learning python...
 - 📫 Mail Me, aravindavd1999@gmail.com
 
